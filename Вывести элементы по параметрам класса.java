@@ -1,4 +1,3 @@
-
 /*
  * Product: id, Найменування, Виробник, Ціна, Термін зберігання, Кількість.
  * Скласти масив об’єктів. Вивести:
@@ -118,7 +117,7 @@ public class Main {
 
             if (products[i].getStoragePeriod() > storagePeriod) {
 
-               products[i].toString();
+                System.out.println(products[i].toString());
             }
         }
 
