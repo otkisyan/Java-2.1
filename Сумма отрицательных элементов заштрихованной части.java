@@ -1,4 +1,6 @@
 // https://ru.stackoverflow.com/questions/1453006/
+// https://studfile.net/preview/5680538/page:36/
+// https://studfile.net/preview/1566570/
 
 // Знайти суму від'ємних елементів заштрихованої частини
     @Override
